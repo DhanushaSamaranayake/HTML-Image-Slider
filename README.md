@@ -1,1 +1,1 @@
-# HTML-Image-Slider
+#Correct the error codes
